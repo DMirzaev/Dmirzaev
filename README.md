@@ -8,5 +8,6 @@
 - Tableau
 - Git
 
-## Telegram
-@blkden
+## Контакты
+Telegram: @blkden
+Почта: mirzaevdenis170196@gmail.com
