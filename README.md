@@ -7,3 +7,6 @@
 - SQL(Postgres, Clickhouse)
 - Tableau
 - Git
+
+## Telegram
+@blkden
